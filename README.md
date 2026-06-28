@@ -7,9 +7,10 @@
 
 **Pharma Forecast** is an intelligent, modern web application designed to help pharmacies and healthcare professionals predict medicine demand. By visualizing historical sales data and AI-powered forecasts, it enables proactive inventory management, identifies potential stockouts, and suggests reorder quantities to ensure critical medications are always available.
 
-[🔗 Live Demo](#) (Replace with your deployment link)
+[🔗 [Live Demo](https://pharma-forecast.vercel.app/)](#) (Replace with your deployment link)
 
-![Dashboard Screenshot](/public/og-image.png) (Replace with an actual screenshot)
+![Dashboard Screenshot]<img width="1912" height="975" alt="image" src="https://github.com/user-attachments/assets/f88d31dc-b628-400b-bee1-883fa84d6218" />
+ (Replace with an actual screenshot)
 
 ## ✨ Features
 
